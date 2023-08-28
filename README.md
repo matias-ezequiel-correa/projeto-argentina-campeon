@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="src/imagens/escudo-arg.png" width="100" />
+  <img alt="Logo" src="src/imagens/escudo-arg.png" width="70" />
 </div>
 <h1 align="center">
   Matías Ezequiel Correa - Argentina | Campeones del Mundo
